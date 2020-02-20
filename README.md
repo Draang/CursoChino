@@ -1,2 +1,0 @@
-# CursoChino
-Created with CodeSandbox
